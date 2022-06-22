@@ -1,0 +1,1 @@
+This is an inprogress implementation of the Positional Burrows Wheeler Transform in Rust. See Richard Durbin's original C implementation of the PBWT at https://github.com/richarddurbin/pbwt for further details.
